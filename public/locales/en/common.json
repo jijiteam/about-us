@@ -1,0 +1,49 @@
+{
+  "test": "Yeah, the test works !",
+  "undefined": "Undefined",
+  "splashLoading": "Loading...",
+  "project": {
+    "name": "Indie Games ²",
+    "shortName": "team<span class=\"font-weight-bold\">JIJI</span>",
+    "title": "Indie Games ²",
+    "description": "Promote the independent video game and its innovation."
+  },
+  "language": {
+    "en": "English",
+    "es": "Español",
+    "de": "Deutsch",
+    "fr": "Français"
+  },
+  "nav": {
+    "link": {
+      "news": "News",
+      "description": "Description",
+      "sources": "Sources"
+    }
+  },
+  "section": {
+    "header": {
+      "title": "Indie Games ²",
+      "subtitle": "Promote the independent video game and its innovation.",
+      "button": "Discover"
+    },
+    "shortText": {
+      "visible": "JIJI brings together <span class = \"marker mr-2\"> video game enthusiasts </ span> who want to get involved in the life of an association.",
+      "d-lg-block": "Developers, artists, writers, anyone can contribute to game innovation through events, conferences and short / medium term projects."
+    },
+    "projectPreview": {
+      "text": "at your gamepads!"
+    },
+    "miscellaneous": {
+      "creation": {
+        "title": "Creation of the association",
+        "text": "That's it, the association has just been created and we are proud to present this site. Regarding communications, we will use Facebook for better organization."
+      },
+      "rds": {
+        "title": "React Dynamic Story",
+        "text": "We are planning a short-term narrative game project using the RDS framework. This will allow us to create a game that can be broadcast on many platforms.",
+        "link": "More information on React Dynamic Story"
+      }
+    }
+  }
+}
