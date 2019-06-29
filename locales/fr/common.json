@@ -1,0 +1,50 @@
+{
+  "test": "Yeah, le test marche !",
+  "undefined": "Non défini",
+  "splashLoading": "Chargement...",
+  "project": {
+    "name": "Jeux Indés ²",
+    "shortName": "team<span class=\"font-weight-bold\">JIJI</span>",
+    "title": "Jeux Indés ²",
+    "description": "Promouvoir le jeu vidéo indépendant et son innovation."
+  },
+  "language": {
+    "en": "English",
+    "es": "Español",
+    "de": "Deutsch",
+    "fr": "Français"
+  },
+  "nav": {
+    "link": {
+      "news": "Dernères infos",
+      "description": "Description",
+      "sources": "Sources"
+    }
+  },
+  "section": {
+    "header": {
+      "title": "Jeux Indés ²",
+      "subtitle": "Promouvoir le jeu vidéo indépendant et son innovation.",
+      "button": "En savoir plus"
+    },
+    "shortText": {
+      "visible": "JIJI regroupe <span class=\"marker mr-2\"> des passionnés du jeu vidéo </span> qui veulent s'impliquer dans la vie d'une association.",
+      "d-lg-block": "Développeurs, artistes, scénaristes, n'importe qui peut contribuer à l'innovation du jeu via des événements, conférences et projets à court/moyen termes."
+    },
+    "projectPreview": {
+      "text": "à vos manettes !"
+    },
+    "miscellaneous": {
+      "title": "Dernières infos à props de Jeux Indés ²",
+      "creation": {
+        "title": "Création de l'association",
+        "text": "Ca y est, l'association vient d'être créée et nous sommes fiers de vous présenter ce site. Concernant les communications, nous utiliserons Facebook pour une meilleure organisation."
+      },
+      "rds": {
+        "title": "React Dynamic Story",
+        "text": "Nous prévoyons un projet à court terme de jeu narratif utilisant le framework RDS. Cela va nous permettre de créer un jeu capable d'être diffusé sur de nombreuses plateformes.",
+        "link": "Plus d'informations sur React Dynamic Story"
+      }
+    }
+  }
+}
